@@ -13,6 +13,5 @@ Bienvenido al proyecto NutriAI. Esta aplicación esta pensanda para usuarios que
 
 
 ### Contribuidores
-| Nombre | Rama  |
-| :---        |    :----:   | |
-| AxelEscorza | [](https://github.com/den1ksays/NutriAI) |
+
+| AxelEscorza | (https://github.com/den1ksays/NutriAI) |
